@@ -1,62 +1,22 @@
 # IBM Data Analyst Capstone Project
 
-This repository contains my final project for the **IBM Data Analyst Professional Certificate**.  
-In this capstone, I take on the role of a **Data Analyst** for a global IT and business consulting firm tasked with identifying trends in emerging technologies and skills.
+In this project, we will assume that we have recently been hired as a Data Analyst by a global IT and business consulting services firm known for their expertise in IT solutions and their team of highly experienced IT consultants. To keep pace with changing technologies and remain competitive, our organization regularly analyzes industry survey data to understand technology usage trends, workforce demographics, and skill demands.
 
----
+As a Data Analyst, we have been tasked with analyzing the **Stack Overflow Developer Survey 2024** dataset to identify the most popular technologies, developer work preferences, and other emerging trends.
 
-## 📌 Project Overview
-We analyze survey data (subset of the Stack Overflow Developer Survey) to answer:
-- What programming languages, database skills, and IDEs are in demand?
-- What demographic trends exist in the developer community?
-- How can we visualize and present these findings effectively?
+Our objectives include:
+- Identifying the top programming languages, databases, and platforms used by developers.
+- Analyzing employment and remote work patterns.
+- Highlighting trends in career satisfaction and technology adoption.
 
----
+Each step of the data analysis process is documented in separate Jupyter Notebooks within this repository, along with additional files required for understanding the workflow and results.
 
-## 🔄 Workflow & Tasks
-1. **Data Collection** – Acquire datasets from APIs, web scraping, and provided CSV files.  
-2. **Data Wrangling** – Clean, preprocess, handle missing values, and normalize data.  
-3. **Exploratory Data Analysis (EDA)** – Identify distributions, outliers, and correlations.  
-4. **Data Visualization** – Use charts, plots, and geospatial maps to present trends.  
-5. **Dashboard Creation** – Build interactive dashboards using IBM Cognos Analytics & Google Looker Studio.  
-6. **Presentation of Findings** – Summarize insights and recommendations.
+The process includes:
+1. **Data Collection** – Obtaining the Stack Overflow Developer Survey 2024 dataset.  
+2. **Data Wrangling** – Cleaning and preparing the dataset for analysis.  
+3. **Exploratory Data Analysis (EDA)** – Understanding data distribution and patterns.  
+4. **Data Visualization** – Creating charts and graphs to present insights.  
+5. **Dashboard Creation** – Building an interactive dashboard using IBM Cognos Analytics.  
+6. **Presenting the Findings** – Summarizing insights and recommendations for decision-makers.  
 
----
-
-## 📊 Dataset
-- **Source**: [2019 Stack Overflow Developer Survey](https://stackoverflow.blog/2019/04/09/the-2019-stack-overflow-developer-survey-results-are-in/)  
-- **License**: ODbL (Open Database License)  
-- **Subset**: ~1/10th of the original dataset (~9,000 responses)  
-- **Format**: CSV
-
----
-
-## 🛠 Tools & Technologies
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn, Folium, Plotly)  
-- **SQL** for querying datasets  
-- **IBM Cognos Analytics** / **Google Looker Studio** for dashboards  
-- **Jupyter Notebook** for development and documentation
-
----
-
-01-Data-Collection/
-02-Data-Wrangling/
-03-EDA/
-04-Data-Visualization/
-05-Dashboard-Creation/
-06-Presentation/
-README.md
-
-Each folder contains a `README.md` detailing the work in that stage.
-
----
-
-## 📈 Deliverables
-- Cleaned dataset  
-- EDA reports & visualizations  
-- Interactive dashboard  
-- Final presentation
-
----
-
-## 📂 Folder Structure
+This project is the final component of the **IBM Data Analyst Professional Certificate** on Coursera.
