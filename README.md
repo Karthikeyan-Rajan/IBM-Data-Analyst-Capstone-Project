@@ -16,7 +16,7 @@ The process includes:
 2. **Data Wrangling** – Cleaning and preparing the dataset for analysis.  
 3. **Exploratory Data Analysis (EDA)** – Understanding data distribution and patterns.  
 4. **Data Visualization** – Creating charts and graphs to present insights.  
-5. **Dashboard Creation** – Building an interactive dashboard using IBM Cognos Analytics.  
-6. **Presenting the Findings** – Summarizing insights and recommendations for decision-makers.  
+5. **Dashboarding** – Building an interactive dashboard using IBM Cognos Analytics.  
+6. **Report-Presentation** – Summarizing insights and recommendations for decision-makers.  
 
 This project is the final component of the **IBM Data Analyst Professional Certificate** on Coursera.
